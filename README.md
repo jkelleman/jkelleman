@@ -2,7 +2,7 @@
 
 I'm Jen, and I design intuitive data experiences.
 
-I'm a Staff Product Designer and Systems Thinker who specializes in building AI-powered UX for data platforms. I love working at the intersection of AI, data systems, and great product design. Most of my time is spent thinking about how to make complex technical systems more accessible and intuitive to use.
+I'm a Principal Product Designer and AI-Native Systems Builder, who specializes in building AI-powered UX for data platforms. I love working at the intersection of AI, data systems, and great product design. Most of my time is spent thinking about how to make complex technical systems more accessible and intuitive to use.
 
 ## What I do
 
@@ -20,7 +20,7 @@ My work spans across:
 
 I'm based in Boston, Massachusetts. You can find me on:
 
-- [My Website](https://www.jkelleman.com)
+- [My Website](https://www.aiwithjen.com)
 - [LinkedIn](https://linkedin.com/in/jenniferkelleman)
 - [Medium](https://medium.com/@jenkelleman)
 - [YouTube](https://www.youtube.com/AIwithJen)
