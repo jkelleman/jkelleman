@@ -1,29 +1,48 @@
-# Hi there
+# Jen Kelleman | AI Systems & Foundation Model Orchestration
 
-I'm Jen, and I design intuitive data experiences.
+I am an AI systems architect, foundation model researcher, and Carnegie Mellon-trained data scientist. I specialize in designing large-scale multi-agent ecosystems, distributed orchestration pipelines, and the deep semantic layers required to transform continuous stream metrics into reliable, stateful enterprise applications.
 
-I'm a Principal Product Designer and AI-Native Systems Builder, who specializes in building AI-powered UX for data platforms. I love working at the intersection of AI, data systems, and great product design. Most of my time is spent thinking about how to make complex technical systems more accessible and intuitive to use.
+My work focuses on solving complex structural bottlenecks in machine learning engineering: managing state persistence across long-running autonomous loops, optimizing context retrieval for time-series data, and establishing rigorous technical data governance for multi-node model architectures.
 
-## What I do
+---
 
-My work spans across:
+## Technical Specializations
 
-**AI & Machine Learning** - I design and build AI agent frameworks, work with LLMs, and create tools that help teams deploy machine learning systems in production. I'm particularly interested in making AI more reliable and easier to integrate into real-world applications.
+### Orchestration & Distributed State Management
+* **Multi-Agent Systems:** Developed and open-sourced an autonomous, multi-agent orchestration framework built to execute complex, long-running agentic workflows without losing contextual integrity.
+* **Memory Architecture:** Engineered custom semantic layers, graph frameworks, and distributed vector database pipelines (RAG) to optimize long-context retrieval, manage asynchronous execution loops, and handle multi-agent task dependencies.
 
-**Data Integration** - I've spent years building data pipelines and integration systems. Whether it's streaming data, ETL workflows, or connecting disparate systems, I focus on making data flow smoothly and reliably.
+### Time-Series Data & Streaming Systems Engineering
+* **Data Stream Orchestration:** Built low-latency data pipelines designed to ingest, process, and structure complex time-series data and continuous physiological stream metrics.
+* **Technical Governance:** Championed enterprise-level data integration strategies and observability pipelines that ensure data integrity, privacy, and low-latency throughput across high-performance compute environments.
 
-**Product Design** - I believe great developer tools should be both powerful and delightful to use. I spend a lot of time thinking about API design, documentation, and developer experience.
+### Compute Optimization & Hardware Benchmarking
+* **Cluster Compute:** Leveraged advanced physical and cloud infrastructure, including high-density NVIDIA hardware clusters, to execute, benchmark, and scale high-throughput model pipelines.
+* **Evaluation Frameworks:** Designed custom MLOps testbeds to evaluate tokenization efficiency, measure prompt performance under heavy context windows, and resolve scaling bottlenecks.
 
-**Software Development** - I write code in Python, TypeScript, and other languages. I've built everything from backend services to full-stack applications, always with an eye toward clean architecture and maintainability.
+### 0-to-1 Productization & Enterprise AI Systems
+* **Production Deployment:** Spearheaded the technical architecture of AI-powered digital workers and advanced RAG systems from initial prototyping to hardened execution frameworks.
+* **Enterprise Validation:** Partnered with leadership teams at Microsoft (Fabric and Copilot), AT&T, Verizon, and CVS Health to deploy scalable language interfaces built on measurable trust, performance, and alignment indicators.
 
-## Get in touch
+---
 
-I'm based in Boston, Massachusetts. You can find me on:
+## Technical Architecture & Ecosystem
 
-- [My Website](https://www.aiwithjen.com)
-- [LinkedIn](https://linkedin.com/in/jenniferkelleman)
-- [Medium](https://medium.com/@jenkelleman)
-- [YouTube](https://www.youtube.com/AIwithJen)
-- [Vimeo](https://www.vimeo.com/jkelleman)
+* **Languages:** Python, TypeScript, SQL, Rust
+* **Agentic Frameworks:** LangChain, LangGraph, LlamaIndex, DSPy, Semantic Kernel
+* **Foundation Models & APIs:** OpenAI API, Claude, Llama, Azure OpenAI Service
+* **MLOps & Infrastructure:** Azure AI Foundry, Azure AI Search, MLflow, Weights & Biases, Hugging Face
+* **Data & Vector Systems:** Vector Databases (Pinecone, Qdrant, Milvus), Graph Databases, Distributed ETL
 
-Always happy to chat about AI systems, data design, or interesting technical challenges. Feel free to reach out.
+---
+
+## Contact & Collaborations
+
+Based in Boston, Massachusetts. I am always open to discussing foundation models, time-series data engineering, and the architecture of autonomous agent ecosystems.
+
+* [Website](https://aiwithjen.com)
+* [LinkedIn](https://linkedin.com)
+* [Medium](https://medium.com)
+* [YouTube](https://youtube.com)
+
+> *"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise."* — Edsger W. Dijkstra
