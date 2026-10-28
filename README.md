@@ -1,6 +1,6 @@
 # Jen Kelleman | AI Systems & Foundation Model Orchestration
 
-I am an AI systems architect, foundation model researcher, and Carnegie Mellon-trained data scientist. I specialize in designing large-scale multi-agent ecosystems, distributed orchestration pipelines, and the deep semantic layers required to transform continuous stream metrics into reliable, stateful enterprise applications.
+I am an AI systems engineer, foundation model researcher, and Carnegie Mellon-trained data scientist. I specialize in designing large-scale multi-agent ecosystems, distributed orchestration pipelines, and the deep semantic layers required to transform continuous stream metrics into reliable, stateful enterprise applications.
 
 My work focuses on solving complex structural bottlenecks in machine learning engineering: managing state persistence across long-running autonomous loops, optimizing context retrieval for time-series data, and establishing rigorous technical data governance for multi-node model architectures.
 
