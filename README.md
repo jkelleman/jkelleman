@@ -1,48 +1,52 @@
-# Jen Kelleman | AI Systems & Foundation Model Orchestration
+# Hi, I'm Jen Kelleman
 
-I am an AI content systems engineer, foundation model researcher, and Carnegie Mellon-trained data scientist. I specialize in designing large-scale multi-agent ecosystems, distributed orchestration pipelines, and the deep semantic layers required to transform continuous stream metrics into reliable, stateful enterprise applications.
+**Conversation designer for AI agents.** I design the language layer of AI systems: how agents report status, ask for approval, explain failures and hand work back to people.
 
-My work focuses on solving complex structural bottlenecks in machine learning engineering: managing state persistence across long-running autonomous loops, optimizing context retrieval for time-series data, and establishing rigorous technical data governance for multi-node model architectures.
+I'm a principal content designer at Microsoft, working on agent experiences in Microsoft Fabric. I've spent 14 years in UX, from voice experiences for AT&T, American Express, Bank of America and Verizon to autonomous data agents today. I have a data science background (Carnegie Mellon), so I prototype in code and work in the same repos as my engineering partners.
 
----
+Portfolio: **[aiwithjen.com](https://aiwithjen.com)**
 
-## Technical Specializations
+## What I work on
 
-### Orchestration & Distributed State Management
-* **Multi-Agent Systems:** Developed and open-sourced an autonomous, multi-agent orchestration framework built to execute complex, long-running agentic workflows without losing contextual integrity.
-* **Memory Architecture:** Engineered custom semantic layers, graph frameworks, and distributed vector database pipelines (RAG) to optimize long-context retrieval, manage asynchronous execution loops, and handle multi-agent task dependencies.
+- **Agent supervision:** status, approvals, activity and recovery, so people can hand work to an agent, step away and decide when to trust the result
+- **Content as code:** content contracts that engineering reviews in pull requests and tests enforce
+- **Errors and recovery:** error frameworks that make failures predictable and fixable
+- **AI quality:** LLM-as-judge evals, golden datasets and review rubrics for human and model graders
+- **Semantic layers:** taxonomies and metadata that help people and agents ask for the right data
 
-### Time-Series Data & Streaming Systems Engineering
-* **Data Stream Orchestration:** Built low-latency data pipelines designed to ingest, process, and structure complex time-series data and continuous physiological stream metrics.
-* **Technical Governance:** Championed enterprise-level data integration strategies and observability pipelines that ensure data integrity, privacy, and low-latency throughput across high-performance compute environments.
+## Selected results
 
-### Compute Optimization & Hardware Benchmarking
-* **Cluster Compute:** Leveraged advanced physical and cloud infrastructure, including high-density NVIDIA hardware clusters, to execute, benchmark, and scale high-throughput model pipelines.
-* **Evaluation Frameworks:** Designed custom MLOps testbeds to evaluate tokenization efficiency, measure prompt performance under heavy context windows, and resolve scaling bottlenecks.
+| Work | Result |
+| --- | --- |
+| Pipeline error Copilot, Microsoft Fabric | 3,785 monthly users |
+| Autonomous data engineer, Microsoft Fabric | 6 task states with approved copy |
+| Agentic design workflow | 6 approved content contracts, enforced by tests |
+| Omnigent supervision study | Approval scopes cut from 10+ labels to 3 |
+| Enterprise semantic layer | 94% tool-calling accuracy |
 
-### 0-to-1 Productization & Enterprise AI Systems
-* **Production Deployment:** Spearheaded the technical architecture of AI-powered digital workers and advanced RAG systems from initial prototyping to hardened execution frameworks.
-* **Enterprise Validation:** Partnered with leadership teams at Microsoft (Fabric and Copilot), AT&T, Verizon, and CVS Health to deploy scalable language interfaces built on measurable trust, performance, and alignment indicators.
+## Open-source work
 
----
+**Conversation and agent design**
+- [support-agent-pattern-library](https://github.com/jkelleman/support-agent-pattern-library): conversation patterns for customer support agents
+- [multilingual-voice-guide](https://github.com/jkelleman/multilingual-voice-guide): voice and tone guidance for agents across languages
+- [omnigent-agent-session-patterns](https://github.com/jkelleman/omnigent-agent-session-patterns/tree/agent-session-patterns): a design study of how people approve, unblock and trust coding agents
+- [fabric-agent-canvas](https://github.com/jkelleman/fabric-agent-canvas): React components for human-in-the-loop agent interfaces
 
-## Technical Architecture & Ecosystem
+**Evals and AI quality**
+- [golden-dataset-kit](https://github.com/jkelleman/golden-dataset-kit): a kit for building golden datasets to evaluate agents
+- [lintel](https://github.com/jkelleman/lintel): a prose linter that grows into agent evals
+- [prompt-ops-eval-harness](https://github.com/jkelleman/prompt-ops-eval-harness): catches hallucinated columns and unsafe writes before an agent's plan runs
 
-* **Languages:** Python, TypeScript, SQL, Rust
-* **Agentic Frameworks:** LangChain, LangGraph, LlamaIndex, DSPy, Semantic Kernel
-* **Foundation Models & APIs:** OpenAI API, Claude, Llama, Azure OpenAI Service
-* **MLOps & Infrastructure:** Azure AI Foundry, Azure AI Search, MLflow, Weights & Biases, Hugging Face
-* **Data & Vector Systems:** Vector Databases (Pinecone, Qdrant, Milvus), Graph Databases, Distributed ETL
+**Semantic layers and data agents**
+- [semantic-metrics-modeling-assistant](https://github.com/jkelleman/semantic-metrics-modeling-assistant): an MCP agent for governed metric definitions with trust scoring
+- [ai-assisted-insights-agent](https://github.com/jkelleman/ai-assisted-insights-agent): turns plain-language questions into reproducible insights with quality checks
 
----
+## Tools I use
 
-## Contact & Collaborations
+Python · TypeScript · React · SQL · MCP · Git and GitHub · Figma · automated tests
 
-Based in Boston, Massachusetts. I am always open to discussing foundation models, time-series data engineering, and the architecture of autonomous agent ecosystems.
+## Get in touch
 
-* [Website](https://aiwithjen.com)
-* [LinkedIn](https://linkedin.com)
-* [Medium](https://medium.com)
-* [YouTube](https://youtube.com)
+Building agents people need to trust? Let's talk.
 
-> *"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise."* — Edsger W. Dijkstra
+[aiwithjen.com](https://aiwithjen.com) · [LinkedIn](https://linkedin.com/in/jenniferkelleman) · jennifer.kelleman@gmail.com
